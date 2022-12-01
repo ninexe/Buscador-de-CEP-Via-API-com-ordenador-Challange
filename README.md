@@ -1,5 +1,4 @@
-# criado um sistema web que permite consultar um endereço via cep, armazenar este registro
-e demonstrar os registros armazenados.
+# criado um sistema web que permite consultar um endereço via cep, armazenando os registros e demonstrando os registros armazenados.
 a busca do endereço foi realizada em javascript via requisição para a api
 disponibilizada no site https://viacep.com.br/
 A opção de salvar envia os dados via POST.
